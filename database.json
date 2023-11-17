@@ -182,6 +182,38 @@
       "modifiedAt": 1700172093893
     }
   ],
+  "shifts": [
+    {
+      "id": 0.45573457091378144,
+      "date": "2023-11-17T00:00:00.000Z",
+      "name": "gabriel",
+      "email": "gabriel@gmail.com",
+      "status": true,
+      "createdAt": 1699895693047,
+      "modifiedAt": 1699984948783,
+      "shiftTakenBy": "eze"
+    },
+    {
+      "id": 0.8723105489512895,
+      "date": "2023-12-03T00:00:00.000Z",
+      "name": "gabriel",
+      "email": "gabriel@gmail.com",
+      "status": true,
+      "createdAt": 1699895696634,
+      "modifiedAt": 1699896072243,
+      "shiftTakenBy": "milo"
+    },
+    {
+      "id": 0.7411522898872351,
+      "date": "2023-12-03T00:00:00.000Z",
+      "name": "gabriel",
+      "email": "gabriel@gmail.com",
+      "status": true,
+      "createdAt": 1699895697484,
+      "modifiedAt": 1699896072829,
+      "shiftTakenBy": "milo"
+    }
+  ],
   "products": [
     {
       "id": 1,
