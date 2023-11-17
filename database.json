@@ -1,18 +1,7 @@
 {
   "protectedResources": {
-    "users": [
-      "GET",
-      "POST",
-      "PUT",
-      "PATCH",
-      "DELETE"
-    ],
-    "products": [
-      "POST",
-      "PUT",
-      "PATCH",
-      "DELETE"
-    ]
+    "users": ["GET", "POST", "PUT", "PATCH", "DELETE"],
+    "products": ["POST", "PUT", "PATCH", "DELETE"]
   },
   "users": [
     {
@@ -164,6 +153,33 @@
       "status": true,
       "createdAt": 1615245193000,
       "modifiedAt": 1616246055000
+    },
+    {
+      "id": 0.572893021378952,
+      "name": "niñera",
+      "email": "niñera@gmail.com",
+      "password": "123",
+      "userType": "sitter",
+      "createdAt": 1700080376967,
+      "modifiedAt": 1700080376967
+    },
+    {
+      "id": 0.1475209252561933,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123",
+      "userType": "SYS_Admin",
+      "createdAt": 1700080420671,
+      "modifiedAt": 1700080420671
+    },
+    {
+      "id": 0.20949835174253084,
+      "name": "cliente",
+      "email": "cliente@gmail.com",
+      "password": "123",
+      "userType": "client",
+      "createdAt": 1700172093893,
+      "modifiedAt": 1700172093893
     }
   ],
   "products": [
